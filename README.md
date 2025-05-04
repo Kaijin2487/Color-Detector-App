@@ -21,7 +21,7 @@ A Python application that extracts and displays the dominant colors from any ima
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/color-detector.git
+git https://github.com/Kaijin2487/Color-Detector-App.git
 cd color-detector
 ```
 
